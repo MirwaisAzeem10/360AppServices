@@ -1,0 +1,14 @@
+.btn-one {
+  color: white;
+  background-color: #fb8c00;
+  border: none;
+  width: 240px;
+  height: 45px;
+  margin-top: 20px;
+}
+
+.btn-one:hover {
+  background-color: #f9f9f9;
+  color: #fb8c00;
+  border: solid 1px;
+}

@@ -1,0 +1,16 @@
+.my-box {
+  background-color: #f9f9f9;
+  border-radius: 20px;
+  flex-direction: column;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  margin: 20px;
+}
+
+.my-box:hover {
+  background-color: #2980b9;
+}
+
+.my-box:hover h5 {
+  color: white !important;
+}
