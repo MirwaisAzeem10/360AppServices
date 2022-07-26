@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Col, Row } from "react-bootstrap";
 import "./Banner.css";
-function Banner() {
+function SecoundBanner() {
   return (
     <Container>
       <Row style={{ position: "relative" }}>
@@ -37,4 +37,4 @@ function Banner() {
   );
 }
 
-export default Banner;
+export default SecoundBanner;

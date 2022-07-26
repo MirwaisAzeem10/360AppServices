@@ -11,7 +11,7 @@ function Footer() {
     >
       <h3 style={{ color: "white", textAlign: "center" }}>360 AppServices</h3>
 
-      <div>
+      <div style={{ paddingTop: "50px" }}>
         <Container style={{ paddingTop: "50px" }}>
           <Row>
             <Col>
@@ -69,18 +69,6 @@ function Footer() {
               </div>
             </Col>
           </Row>
-
-          <div>
-            <p
-              style={{
-                textAlign: "center",
-                color: "white",
-                fontFamily: "none",
-              }}
-            >
-              Copyright2020. All rights reserved by 360appservices
-            </p>
-          </div>
         </Container>
       </div>
     </div>
